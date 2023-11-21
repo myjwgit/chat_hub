@@ -1,8 +1,8 @@
 {
-   "appDesc": {
-      "message": "ChatGPT、Bing、Bard、およびClaudeを一つのプラットフォームで使用します"
-   },
-   "appName": {
-      "message": "ChatHub - オールインワンチャットボットクライアント"
-   }
+  "appName": {
+    "message": "ChatHub - オールインワンチャットボットクライアント"
+  },
+  "appDesc": {
+    "message": "ChatGPT、Bing、Bard、およびClaudeを一つのプラットフォームで使用します"
+  }
 }
